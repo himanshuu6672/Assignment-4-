@@ -20,19 +20,7 @@ This repository contains two Python programs for basic file handling operations.
 
 ---
 
-## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/himanshuu6672/Assignment-4-.git
-   cd Assignment-4-
-   ```
-
-2. Run the programs:
-   ```bash
-   python "Task 1.py"
-   python "Task 2.py"
-   ```
 
 ---
 
@@ -40,17 +28,13 @@ This repository contains two Python programs for basic file handling operations.
 
 ### Task 1 (Reading a file)
 
-If `sample.txt` contains:
+If `sample.txt` file is prsent:
 ```
 Hello
 Welcome to Python
 ```
 
-Running the program:
-```
-Hello
-Welcome to Python
-```
+
 
 If the file is missing:
 ```
